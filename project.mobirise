@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-04-07_1433",
+    "name": "rosablack",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
@@ -35,8 +35,8 @@
     "versionFirst": "5.3.0",
     "siteFonts": [],
     "imageResize": true,
-    "favicon": false,
-    "mbrsiteDomain": "tcpa2vsbyr",
+    "favicon": "@PROJECT_PATH@/assets/images/rounded-headphones-128x128.png",
+    "mbrsiteDomain": "aniogjhpw3",
     "canonical-url": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
